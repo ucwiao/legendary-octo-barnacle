@@ -14,7 +14,6 @@
     "mongodb": "^5.7.0"
   },
   "devDependencies": {
-    "@types/formidable": "^3.5.0",
     "typescript": "^5.0.0"
   }
 }
